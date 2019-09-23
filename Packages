@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.13HUD
+Name: 13HUD
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: IOS 13 volume hud for IOS 12
+Maintainer: someone
+Author: someone
+Section: Tweaks
+Filename: ./debs/com.13HUD.deb
+Depiction: gradysrepo.github.io/gradyflett/depictions/13HUD
+Size: 32572
+MD5sum: 52e690b63c981acbaf79f03d657cd17f
