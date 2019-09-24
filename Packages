@@ -12,7 +12,7 @@ Name:
 Author:
 Depiction:
 
-Package: com.13HUD
+Package: com.13HUD.deb
 Name: 13HUD
 Depends: mobilesubstrate
 Version: 1.0.0
