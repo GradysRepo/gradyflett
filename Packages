@@ -1,17 +1,3 @@
-Package: 
-Version: 
-Section: Tweaks
-Maintainer: 
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/
-Size:
-MD5sum:
-Description:
-Name:
-Author:
-Depiction:
-
 Package: com.13HUD.deb
 Name: 13HUD
 Depends: mobilesubstrate
